@@ -1,0 +1,21 @@
+.home-page {
+  background-color: black;
+  box-shadow: 0 4px 10px 0 #000;
+  margin-bottom: 32px;
+}
+
+.home-page-container {
+  background-image: url("/public/images/white-ramka.png");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: contain;
+  max-width: 1440px;
+  margin: 0 auto;
+  /* border: 1px solid white; */
+}
+
+.home-page-text {
+  padding: 250px 10px;
+  margin: 0 auto;
+  max-width: 880px;
+}

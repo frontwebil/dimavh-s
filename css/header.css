@@ -1,0 +1,23 @@
+.header {
+  background-color: #ffffff;
+  width: 100%;
+  position: fixed;
+  top:0;
+}
+.header-nav {
+  display: flex;
+  justify-content: space-between;
+  margin: 0 auto;
+  max-width: 610px;
+  padding: 16px 10px;
+}
+.header-nav-item {
+  font-weight: 400;
+  font-size: 24px;
+  color: #000;
+  transition: all ease 0.5s;
+}
+
+.header-nav-item:hover{
+  opacity: 0.5;
+}

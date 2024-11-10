@@ -1,0 +1,21 @@
+.about-me {
+  box-shadow: 0 4px 10px 0 #000;
+  margin-bottom: 30px;
+}
+.about-me-container {
+  background-image: url("/public/images/black-ramka.png");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: contain;
+  display: flex;
+  flex-direction: column;
+  gap: 70px;
+  max-width: 1440px;
+  padding: 70px 10px 145px;
+  margin: 0 auto;
+
+}
+.about-me-text-column {
+  max-width: 1050px;
+  margin: 0 auto;
+}

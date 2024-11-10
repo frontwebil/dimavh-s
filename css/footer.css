@@ -1,0 +1,16 @@
+.footer {
+  background-color: black;
+  width: 100%;
+}
+.footer-container {
+  max-width: 1260px;
+  padding: 15px 10px;
+  margin: 0 auto;
+  display: flex;
+  justify-content: space-between;
+}
+.footer-text {
+  font-weight: 400;
+  font-size: 20px;
+  color: #6c6c6c;
+}

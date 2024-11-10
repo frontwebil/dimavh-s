@@ -1,0 +1,31 @@
+.info-section {
+  background-color: black;
+  box-shadow: 0 4px 10px 0 #000;
+}
+.info-section-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-image: url("/public/images/white-ramka.png");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: contain;
+  gap: 45px;
+  max-width: 1320px;
+  padding: 90px 10px 95px;
+  margin: 0 auto;
+}
+
+.info-section-wrappper {
+  max-width: 1300px;
+  margin: 0 auto;
+  display: flex;
+  gap: 90px;
+}
+.info-section-wrappper-block {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  text-align: center;
+  max-width: 550px;
+}
